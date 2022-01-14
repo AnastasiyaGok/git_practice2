@@ -1,0 +1,5 @@
+Tsis is an awesome file I added directly from GitHub.com
+And now I am about to commit derectly to GitHub.com remote repository
+This is not somthing we would do normally
+we are just trying simulate a situation where remote repository history is ahead of local repository history
+In plain english remote has one additional commit that local does not have
